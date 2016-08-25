@@ -1,0 +1,697 @@
+0,"{'STD-Aaes_x002d_Jorgensen-1981b': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+1,"{'STD-Addington-2004': array([ '../ALL-2015-06/Q-Z/Ziprasidone versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+2,"{'STD-Adson-2003': array([ '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+3,"{'STD-Albert-1980': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+4,"{'STD-Amin-1977': array([ '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+5,"{'STD-Andrews-1976': array([ '../ALL-2015-06/C-F/Cessation of medication for people with schizophrenia already stable on chlorpromazine [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+6,"{'STD-Atmaca-2003': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+7,"{'STD-Azorin-2001': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+8,"{'STD-Azorin-2006': array([ '../ALL-2015-06/Q-Z/Sertindole versus other atypical antipsychotics for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+9,"{'STD-Bagadia-1980': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+10,"{'STD-Bai-2005': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+11,"{'STD-Balasubramanian-1991': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+12,"{'STD-Ban-1975': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+13,"{'STD-Barnes-1983': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5'], dtype=object)}"
+14,"{'STD-Barrowclough-2001': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Psychosocial interventions for people with both severe mental illness and substance misuse [v10.2-For publication].rm5'], dtype=object)}"
+15,"{'STD-Battaglia-1997': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+16,"{'STD-Bechdolf-2004': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+17,"{'STD-Bechelli-1983': array([ '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+18,"{'STD-Bechelli-1985': array([ '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+19,"{'STD-Bi-1994': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+20,"{'STD-Bishop-1963': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+21,"{'STD-Bishop-1970': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+22,"{'STD-Bitter-2004': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+23,"{'STD-Blanco-1972': array([ '../ALL-2015-06/Q-Z/Sulpiride versus placebo for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+24,"{'STD-Blin-1996': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus typical antipsychotic medication for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+25,"{'STD-Bond_x002d_Chicago1': array([ '../ALL-2015-06/G-P/Intensive case management for severe mental illness [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Vocational rehabilitation for people with severe mental illness [v6.0-For publication].rm5'], dtype=object)}"
+26,"{'STD-Bondolfi-1998': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+27,"{'STD-Bonsack-2011': array([ '../ALL-2015-06/C-F/Cannabis and schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Psychosocial interventions for people with both severe mental illness and substance misuse [v10.2-For publication].rm5'], dtype=object)}"
+28,"{'STD-Borison-1989': array([ '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+29,"{'STD-Borison-1991': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus typical antipsychotic medication for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+30,"{'STD-Bradley-2006': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+31,"{'STD-Brauzer-1971': array([ '../ALL-2015-06/G-P/Molindone for schizophrenia and severe mental illness [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+32,"{'STD-Breier-1999': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+33,"{'STD-Breier-2005': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Ziprasidone versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+34,"{'STD-Buchkremer-1997': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+35,"{'STD-CATIE-2005': array([ '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+36,"{'STD-Caffey-1964': array([ '../ALL-2015-06/C-F/Cessation of medication for people with schizophrenia already stable on chlorpromazine [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+37,"{'STD-Canive-2000': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+38,"{'STD-Carson-2000-a': array([ '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+39,"{'STD-Carson-2002-b': array([ '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+40,"{'STD-Casey-2003': array([ '../ALL-2015-06/A-B/Antipsychotic switching for people with schizophrenia who have neuroleptic-induced weight or metabolic problems [v4.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+41,"{'STD-Cassano-1975': array([ '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+42,"{'STD-Cather-2005': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+43,"{'STD-Chan-2003': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+44,"{'STD-Chan-2007': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+45,"{'STD-Chen-2003': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+46,"{'STD-Chen-2009': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/G-P/Life skills programmes for chronic mental illnesses [v10.0-For publication].rm5'], dtype=object)}"
+47,"{'STD-Chen-2010': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+48,"{'STD-Cheung-1981': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+49,"{'STD-Chien-2004': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+50,"{'STD-Chouinard-1978': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+51,"{'STD-Chouinard-1982': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5'], dtype=object)}"
+52,"{'STD-Chouinard-1984': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+53,"{'STD-Chouinard-1993': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5'], dtype=object)}"
+54,"{'STD-Claghorn-1974': array([ '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+55,"{'STD-Clark-1969': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+56,"{'STD-Clark-1971': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+57,"{'STD-Clark-1972': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Chlorpromazine dose for people with schizophrenia [v3.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+58,"{'STD-Clark-1975': array([ '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+59,"{'STD-Clark-1977': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+60,"{'STD-Cole-1964': array([ '../ALL-2015-06/A-B/Antipsychotic medication for early episode schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+61,"{'STD-Conley-2001': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+62,"{'STD-Conley-2003': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+63,"{'STD-Conley-2005': array([ '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+64,"{'STD-Cookson-1986': array([ '../ALL-2015-06/A-B/Antipsychotic switching for people with schizophrenia who have neuroleptic-induced weight or metabolic problems [v4.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+65,"{'STD-Coons-1962': array([ '../ALL-2015-06/Q-Z/Trifluoperazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+66,"{'STD-Cooper-2000': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+67,"{'STD-Csernansky-2003': array([ '../ALL-2015-06/A-B/Aripiprazole versus typical antipsychotic drugs for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+68,"{'STD-Daniel-2000': array([ '../ALL-2015-06/A-B/Aripiprazole versus typical antipsychotic drugs for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+69,"{'STD-Daniel-2004': array([ '../ALL-2015-06/A-B/Aripiprazole versus typical antipsychotic drugs for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+70,"{'STD-Dehnel-1968': array([ '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+71,"{'STD-Dencker-1973': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+72,"{'STD-Denijs-1973': array([ '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+73,"{'STD-Dieterle-1991': array([ '../ALL-2015-06/G-P/Perazine for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Zotepine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+74,"{'STD-Dollfus-2005': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+75,"{'STD-Dolnak-2001': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+76,"{'STD-Dorevitch-1999': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+77,"{'STD-Drury-2000': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+78,"{'STD-Dufresne-1993': array([ '../ALL-2015-06/G-P/Molindone for schizophrenia and severe mental illness [v4.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+79,"{'STD-Durham-2003': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Supportive therapy for schizophrenia [v7.2-For publication].rm5'], dtype=object)}"
+80,"{'STD-Eberhard-1986': array([ '../ALL-2015-06/C-F/Flupenthixol decanoate (depot) for schizophrenia or other similar psychotic disorders [v4.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+81,"{'STD-Eckmann-1984': array([ '../ALL-2015-06/A-B/Benperidol for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5'], dtype=object)}"
+82,"{'STD-Edwards-1980': array([ '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+83,"{'STD-Edwards-2006': array([ '../ALL-2015-06/C-F/Cannabis and schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Psychosocial interventions for people with both severe mental illness and substance misuse [v10.2-For publication].rm5'], dtype=object)}"
+84,"{'STD-Eklund-1991': array([ '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+85,"{'STD-Emsley-2006': array([ '../ALL-2015-06/G-P/Polyunsaturated fatty acid supplementation for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Miscellaneous treatments for neuroleptic-induced tardive dyskinesia [v11.0-For publication].rm5'], dtype=object)}"
+86,"{'STD-Escobar-1985': array([ '../ALL-2015-06/G-P/Molindone for schizophrenia and severe mental illness [v4.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+87,"{'STD-Falloon-1978': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5'], dtype=object)}"
+88,"{'STD-Fischer-1976': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+89,"{'STD-Foster-1997': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+90,"{'STD-Freeman-1962': array([ '../ALL-2015-06/C-F/Cessation of medication for people with schizophrenia already stable on chlorpromazine [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+91,"{'STD-Fruensgaard-1977': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+92,"{'STD-Fruensgaard-1978': array([ '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+93,"{'STD-Galderisi-1994': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+94,"{'STD-Gallant-1967': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+95,"{'STD-Gallant-1968': array([ '../ALL-2015-06/G-P/Molindone for schizophrenia and severe mental illness [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+96,"{'STD-Gallant-1972': array([ '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+97,"{'STD-Garety-2008': array([ '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+98,"{'STD-Garza_x002d_Trevino-1989': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+99,"{'STD-Glazer-1990': array([ '../ALL-2015-06/G-P/Molindone for schizophrenia and severe mental illness [v4.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+100,"{'STD-Goldstein-1978': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+101,"{'STD-Gowardman-1973': array([ '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+102,"{'STD-Gravem-1978': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+103,"{'STD-Gravem-1981': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+104,"{'STD-Gross-1974': array([ '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+105,"{'STD-Guo-2007': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+106,"{'STD-Gureje-2003': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+107,"{'STD-Gwynne-1962': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+108,"{'STD-Haas-1982': array([ '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+109,"{'STD-Haddock-1999': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Supportive therapy for schizophrenia [v7.2-For publication].rm5'], dtype=object)}"
+110,"{'STD-Haddock-2009': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+111,"{'STD-Hankoff-1962': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+112,"{'STD-Hanlon-1965': array([ '../ALL-2015-06/G-P/Perphenazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5'], dtype=object)}"
+113,"{'STD-Heikkila-1981a': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+114,"{'STD-Heikkila-1981b': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+115,"{'STD-Heikkila-1992': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+116,"{'STD-Heinrich-1994': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+117,"{'STD-Herz-2000': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+118,"{'STD-Hjorthoj-2013': array([ '../ALL-2015-06/C-F/Cannabis and schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Psychosocial interventions for people with both severe mental illness and substance misuse [v10.2-For publication].rm5'], dtype=object)}"
+119,"{'STD-Hogarty-1973': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+120,"{'STD-Howard-1974': array([ '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+121,"{'STD-Hoyberg-1993': array([ '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus typical antipsychotic medication for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+122,"{'STD-Huttunen-1995': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus typical antipsychotic medication for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+123,"{'STD-Hwang-2003': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+124,"{'STD-Itoh-1969': array([ '../ALL-2015-06/C-F/Clotiapine for acute psychotic illnesses [v10.0-Unmarked for publication 8 Oct 2012].rm5',
+       '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5'], dtype=object)}"
+125,"{'STD-Jackson-2008': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+126,"{'STD-Jain-1975': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+127,"{'STD-Javed-1991': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Flupenthixol decanoate (depot) for schizophrenia or other similar psychotic disorders [v4.0-For publication].rm5'], dtype=object)}"
+128,"{'STD-Jeste-2003': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+129,"{'STD-Kane-2003': array([ '../ALL-2015-06/A-B/Aripiprazole versus typical antipsychotic drugs for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5'], dtype=object)}"
+130,"{'STD-Kane-2005': array([ '../ALL-2015-06/Q-Z/Sertindole versus other atypical antipsychotics for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+131,"{'STD-Keefe-2006': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+132,"{'STD-Kelly-1977': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Flupenthixol decanoate (depot) for schizophrenia or other similar psychotic disorders [v4.0-For publication].rm5'], dtype=object)}"
+133,"{'STD-Kemp-1998': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+134,"{'STD-Kern-2001': array([ '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+135,"{'STD-Kiloh-1976': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+136,"{'STD-Kingstone-1970': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+137,"{'STD-Kinon-2006b': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+138,"{'STD-Kissling-1985': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+139,"{'STD-Klimke-1993': array([ '../ALL-2015-06/G-P/Perazine for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5'], dtype=object)}"
+140,"{'STD-Klingberg-2009': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+141,"{'STD-Kordas-1968': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+142,"{'STD-Krakowski-2006': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+143,"{'STD-Kramer-1978': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+144,"{'STD-Kramer-2007': array([ '../ALL-2015-06/G-P/Oral paliperidone for schizophrenia [v8.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+145,"{'STD-Kujawa-2002': array([ '../ALL-2015-06/A-B/Aripiprazole versus typical antipsychotic drugs for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+146,"{'STD-Kumra-2008': array([ '../ALL-2015-06/A-B/Atypical antipsychotics for psychosis in adolescents [v2.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+147,"{'STD-Kurihara-1983': array([ '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+148,"{'STD-Kurland-1961': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Perphenazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5'], dtype=object)}"
+149,"{'STD-Kurland-1966': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+150,"{'STD-Lecrubier-2006': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+151,"{'STD-Leff-1971': array([ '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5'], dtype=object)}"
+152,"{'STD-Leong-1989': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+153,"{'STD-Lepola-1989': array([ '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+154,"{'STD-Levine-1998': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Supportive therapy for schizophrenia [v7.2-For publication].rm5'], dtype=object)}"
+155,"{'STD-Lewis-2002': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+156,"{'STD-Lewis-2002-_x002d_-Liverpool': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+157,"{'STD-Lewis-2002-_x002d_-Manchester': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+158,"{'STD-Lewis-2002-_x002d_-Nottingham': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+159,"{'STD-Li--2005': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+160,"{'STD-Li-2003': array([ '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+161,"{'STD-Li-2004': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Pharmacological interventions for clozapine-induced hypersalivation [v6.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+162,"{'STD-Li-2005a': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+163,"{'STD-Li-2006': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+164,"{'STD-Li-2007': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/G-P/Music therapy for people with schizophrenia and schizophrenia-like disorders [v7.0-For publication].rm5'], dtype=object)}"
+165,"{'STD-Lieberman-2005': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Ziprasidone versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+166,"{'STD-Lin-2003': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Zotepine versus other atypical antipsychotics for schizophrenia [v8.0-For publication].rm5'], dtype=object)}"
+167,"{'STD-Littrell-1999': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+168,"{'STD-Liu-2000': array([ '../ALL-2015-06/C-F/Flupenthixol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus typical antipsychotic medication for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+169,"{'STD-Liu-2007': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+170,"{'STD-Lundin-1990': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Flupenthixol decanoate (depot) for schizophrenia or other similar psychotic disorders [v4.0-For publication].rm5'], dtype=object)}"
+171,"{'STD-M_x00f6_ller-2005': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+172,"{'STD-Mahadevan-1991': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+173,"{'STD-Malik-1980': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+174,"{'STD-Malyarov-1999': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus typical antipsychotic medication for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+175,"{'STD-Man-1973': array([ '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+176,"{'STD-Marcus-2005': array([ '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+177,"{'STD-Marder-1994': array([ '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus typical antipsychotic medication for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+178,"{'STD-Marjerrison-1964': array([ '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+179,"{'STD-May-1976': array([ '../ALL-2015-06/A-B/Antipsychotic medication for early episode schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Individual psychodynamic psychotherapy and psychoanalysis for schizophrenia and severe mental illness [v10.0-For publication].rm5'], dtype=object)}"
+180,"{'STD-Mayang-1990': array([ '../ALL-2015-06/G-P/Problem solving skills for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Social skills programmes for schizophrenia [v4.8-For publication].rm5'], dtype=object)}"
+181,"{'STD-McCreadie-1977': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+182,"{'STD-McCreadie-1980': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5'], dtype=object)}"
+183,"{'STD-McEvoy-2006': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+184,"{'STD-McEvoy-2007': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+185,"{'STD-McGurk-2005': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+186,"{'STD-McKane-1987': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+187,"{'STD-McLaren-1992': array([ '../ALL-2015-06/A-B/Bromperidol decanoate (depot) for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+188,"{'STD-McQuade-2003': array([ '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+189,"{'STD-McQuade-2004': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+190,"{'STD-Meltzer-2003': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+191,"{'STD-Merinder-1999': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+192,"{'STD-Moresco-2004': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+193,"{'STD-Mori-2004': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+194,"{'STD-Mortimer-2004': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+195,"{'STD-Morton-1968': array([ '../ALL-2015-06/C-F/Cessation of medication for people with schizophrenia already stable on chlorpromazine [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5'], dtype=object)}"
+196,"{'STD-Naber-2005': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+197,"{'STD-Namjoshi-2002': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+198,"{'STD-Nishikawa-1982': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5'], dtype=object)}"
+199,"{'STD-Nishikawa-1984': array([ '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+200,"{'STD-Nishikawa-1985': array([ '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+201,"{'STD-Nishizono-1994': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+202,"{'STD-O_x0027_Donnell-2003': array([ '../ALL-2015-06/C-F/Compliance therapy for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+203,"{'STD-Odejide-1982': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+204,"{'STD-Olie-2006': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Ziprasidone versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+205,"{'STD-Oren-2005': array([ '../ALL-2015-06/A-B/Aripiprazole versus typical antipsychotic drugs for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+206,"{'STD-Ozguven-2004': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+207,"{'STD-Papageorgiou-2002': array([ '../ALL-2015-06/A-B/Advance treatment directives for people with severe mental illness [v8.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/User-held personalised information for routine care of people with severe mental illness [v7.3-For publication].rm5'], dtype=object)}"
+208,"{'STD-Peng-2007': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+209,"{'STD-Penn-2009': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Supportive therapy for schizophrenia [v7.2-For publication].rm5'], dtype=object)}"
+210,"{'STD-Perales-1974': array([ '../ALL-2015-06/C-F/Clotiapine for acute psychotic illnesses [v10.0-Unmarked for publication 8 Oct 2012].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+211,"{'STD-Peuskens-1999': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Amisulpride for schizophrenia [v11.3-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+212,"{'STD-Pinto-1979': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Flupenthixol decanoate (depot) for schizophrenia or other similar psychotic disorders [v4.0-For publication].rm5'], dtype=object)}"
+213,"{'STD-Pinto-1999': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Supportive therapy for schizophrenia [v7.2-For publication].rm5'], dtype=object)}"
+214,"{'STD-Pool-1976': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+215,"{'STD-Potkin-2003': array([ '../ALL-2015-06/A-B/Aripiprazole versus placebo for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+216,"{'STD-Potkin-2006': array([ '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+217,"{'STD-Prien-1968': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Chlorpromazine dose for people with schizophrenia [v3.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+218,"{'STD-Prien-1969': array([ '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+219,"{'STD-Purdon-2000': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus typical antipsychotic medication for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+220,"{'STD-R_x00fc_ther-1988': array([ '../ALL-2015-06/A-B/Amisulpride for schizophrenia [v11.3-For publication].rm5',
+       '../ALL-2015-06/G-P/Perazine for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+221,"{'STD-Rama-Rao-1981': array([ '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+222,"{'STD-Ramsay-1970': array([ '../ALL-2015-06/G-P/Molindone for schizophrenia and severe mental illness [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+223,"{'STD-Ramu-1999': array([ '../ALL-2015-06/A-B/Ayurvedic medicine for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+224,"{'STD-Rappaport-1978': array([ '../ALL-2015-06/A-B/Antipsychotic medication for early episode schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+225,"{'STD-Reardon-1966': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+226,"{'STD-Remvig-1987': array([ '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+227,"{'STD-Ren-2002': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+228,"{'STD-Reschke-1974': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+229,"{'STD-Riedel-2005': array([ '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+230,"{'STD-Riedel-2007': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+231,"{'STD-Ritchie-2003': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+232,"{'STD-Ritter-1972': array([ '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+233,"{'STD-Rompel-1978': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+234,"{'STD-Rossi-1990': array([ '../ALL-2015-06/A-B/Bromperidol decanoate (depot) for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+235,"{'STD-Rubin-1971': array([ '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+236,"{'STD-Sacchetti-2004': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+237,"{'STD-Sacchetti-2006': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Ziprasidone versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+238,"{'STD-Schiele-1961': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+239,"{'STD-Schlosberg-1978': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+240,"{'STD-Schmidt-1982': array([ '../ALL-2015-06/G-P/Perazine for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5'], dtype=object)}"
+241,"{'STD-Schneider-1981': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+242,"{'STD-Schooler-1997': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+243,"{'STD-Sechter-2002': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+244,"{'STD-Selman-1976': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+245,"{'STD-Sensky-2000': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+246,"{'STD-Serafetinides-1972': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus placebo for schizophrenia [v13.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+247,"{'STD-Seth-1979': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+248,"{'STD-Shalev-1993': array([ '../ALL-2015-06/G-P/Perphenazine versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+249,"{'STD-Shaw-2006': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+250,"{'STD-Shawver-1959': array([ '../ALL-2015-06/C-F/Cessation of medication for people with schizophrenia already stable on chlorpromazine [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+251,"{'STD-Shiloh-1997': array([ '../ALL-2015-06/Q-Z/Sulpiride for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride augmentation for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+252,"{'STD-Sikich-2004': array([ '../ALL-2015-06/A-B/Atypical antipsychotics for psychosis in adolescents [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+253,"{'STD-Silverstone-1984': array([ '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+254,"{'STD-Simon-1978': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+255,"{'STD-Simpson-1976': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+256,"{'STD-Simpson-2004': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Ziprasidone versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+257,"{'STD-Singh-1979': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+258,"{'STD-Sirota-2006': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+259,"{'STD-Somerville-1960': array([ '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+260,"{'STD-Song-2008': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+261,"{'STD-Soni-1990': array([ '../ALL-2015-06/Q-Z/Sulpiride versus placebo for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+262,"{'STD-Steinert-1986': array([ '../ALL-2015-06/C-F/Flupenthixol decanoate (depot) for schizophrenia or other similar psychotic disorders [v4.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+263,"{'STD-Sterlin-1972': array([ '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol dihydrochloride for schizophrenia [v5.0-For publication].rm5'], dtype=object)}"
+264,"{'STD-Stewart-1969': array([ '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+265,"{'STD-Stroup-2006': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Ziprasidone versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+266,"{'STD-Svestka-2003': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+267,"{'STD-Svestka-2003b': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+268,"{'STD-Svestka-2005': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Ziprasidone versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+269,"{'STD-Tarrier-1993': array([ '../ALL-2015-06/C-F/Distraction techniques for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Problem solving skills for schizophrenia [v10.0-For publication].rm5'], dtype=object)}"
+270,"{'STD-Teja-1975': array([ '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus chlorpromazine for schizophrenia [v9.0-For publication].rm5'], dtype=object)}"
+271,"{'STD-Tollefson-2001': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+272,"{'STD-Tran-1997': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+273,"{'STD-Tran-1997-_x0028_HGBG_x0029_': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+274,"{'STD-Tuason-1986': array([ '../ALL-2015-06/G-P/Loxapine for schizophrenia [v10.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol for psychosis-induced aggression or agitation (rapid tranquillisation) [v2.3-For publication].rm5'], dtype=object)}"
+275,"{'STD-Turkington-2000': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Supportive therapy for schizophrenia [v7.2-For publication].rm5'], dtype=object)}"
+276,"{'STD-Valmaggia-2005': array([ '../ALL-2015-06/C-F/Cognitive behavioural therapy versus other psychosocial treatments for schizophrenia [v5.0-For publication] (1).rm5',
+       '../ALL-2015-06/C-F/Cognitive behaviour therapy versus other psychosocial treatments for schizophrenia [v11.0-For publication].rm5'], dtype=object)}"
+277,"{'STD-Van-Nimwegen-2006': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+278,"{'STD-Vanelle-2006': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+279,"{'STD-Vergara-1977': array([ '../ALL-2015-06/G-P/Pimozide for schizophrenia or related psychoses [v10.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Trifluoperazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+280,"{'STD-Volavka-2002': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+281,"{'STD-Voruganti-2007': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+282,"{'STD-Wagner-2005': array([ '../ALL-2015-06/A-B/Amisulpride versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+283,"{'STD-Wahlbeck-2000': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+284,"{'STD-Wang-1994': array([ '../ALL-2015-06/G-P/Morita therapy for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Sulpiride augmentation for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+285,"{'STD-Wang-2000': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/G-P/Morita therapy for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+286,"{'STD-Wang-2002': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Morita therapy for schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+287,"{'STD-Wang-2003': array([ '../ALL-2015-06/A-B/Benzodiazepines for schizophrenia [v5.4-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5'], dtype=object)}"
+288,"{'STD-Wang-2005': array([ '../ALL-2015-06/A-B/Aripiprazole versus typical antipsychotic drugs for schizophrenia [v7.0-For publication].rm5',
+       '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5'], dtype=object)}"
+289,"{'STD-Wang-2006': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+290,"{'STD-Wang-2008c': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5'], dtype=object)}"
+291,"{'STD-Weston-1973': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Thioridazine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+292,"{'STD-Wetzel-1991': array([ '../ALL-2015-06/G-P/Perazine for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Zotepine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+293,"{'STD-White-1981': array([ '../ALL-2015-06/G-P/Haloperidol versus low-potency first-generation antipsychotic drugs for schizophrenia [v2.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders [v2.2-For publication].rm5'], dtype=object)}"
+294,"{'STD-Wistedt-1983': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Flupenthixol decanoate (depot) for schizophrenia or other similar psychotic disorders [v4.0-For publication].rm5'], dtype=object)}"
+295,"{'STD-Wistedt-1984': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+296,"{'STD-Wistedt-1991': array([ '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Zuclopenthixol decanoate for schizophrenia and other serious mental illnesses [v5.0-For publication].rm5'], dtype=object)}"
+297,"{'STD-Woggon-1977': array([ '../ALL-2015-06/C-F/Fluphenazine decanoate (depot) and enanthate for schizophrenia [v9.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Depot pipotiazine palmitate and undecylenate for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"
+298,"{'STD-Wolkin-1986': array([ '../ALL-2015-06/G-P/Polyunsaturated fatty acid supplementation for schizophrenia [v11.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Miscellaneous treatments for neuroleptic-induced tardive dyskinesia [v11.0-For publication].rm5'], dtype=object)}"
+299,"{'STD-Wynn-2007': array([ '../ALL-2015-06/G-P/Olanzapine versus other atypical antipsychotics for schizophrenia [v6.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+300,"{'STD-Xiong-1994': array([ '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/C-F/Chlorpromazine versus placebo for schizophrenia [v14.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Training to recognise the early signs of recurrence in schizophrenia [v6.0-For publication].rm5'], dtype=object)}"
+301,"{'STD-Zhang-2006a': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+302,"{'STD-Zhang-2010': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/G-P/Perphenazine for schizophrenia [v6.2-For publication].rm5'], dtype=object)}"
+303,"{'STD-Zhao-2007': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/G-P/Life skills programmes for chronic mental illnesses [v10.0-For publication].rm5'], dtype=object)}"
+304,"{'STD-Zhong-2006': array([ '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Quetiapine versus other atypical antipsychotics for schizophrenia [v4.2-For publication].rm5'], dtype=object)}"
+305,"{'STD-Zhou-2000': array([ '../ALL-2015-06/C-F/Clozapine versus other atypical antipsychotics for schizophrenia [v5.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus other atypical antipsychotics for schizophrenia [v4.0-For publication].rm5'], dtype=object)}"
+306,"{'STD-Zhou-2007': array([ '../ALL-2015-06/A-B/Aripiprazole versus other atypical antipsychotics for schizophrenia [v6.7-For publication].rm5',
+       '../ALL-2015-06/C-F/Family intervention for schizophrenia [v14.0-For publication].rm5'], dtype=object)}"
+307,"{'STD-Zissis-1982': array([ '../ALL-2015-06/C-F/Depot haloperidol decanoate for schizophrenia [v4.0-For publication].rm5',
+       '../ALL-2015-06/G-P/Maintenance treatment with antipsychotic drugs for schizophrenia [v3.2-For publication].rm5'], dtype=object)}"
+308,"{'STD-de-Haan-2002': array([ '../ALL-2015-06/G-P/Olanzapine for schizophrenia [v12.0-For publication].rm5',
+       '../ALL-2015-06/Q-Z/Risperidone versus olanzapine for schizophrenia [v7.0-For publication].rm5'], dtype=object)}"

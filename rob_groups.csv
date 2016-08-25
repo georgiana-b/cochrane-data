@@ -1,0 +1,27 @@
+rob_id,group_id,rob_name,group_name
+QIT-01,,"['Random sequence generation (selection bias)'
+ 'Adequate sequence generation?' 'Adequate sequence generation']",['']
+QIT-02,,"['Allocation concealment (selection bias)' 'Allocation concealment?'
+ 'Allocation concealment']",['']
+QIT-03,QIG-03.01,"['Blinding (performance bias and detection bias)' 'Blinding?'
+ 'Blinding of participants and personnel (performance bias)' 'Blinding']","['All outcomes' 'Objective outcomes' 'Subjective outcomes'
+ '(performance bias)' 'subjective outcomes']"
+QIT-03,QIG-03.02,['Blinding (performance bias and detection bias)' 'Blinding?'],"['Subjective outcomes' 'Objective outcomes' '(detection bias)'
+ 'All outcomes' 'objective outcomes']"
+QIT-03,QIG-03.03,['Blinding (performance bias and detection bias)'],['All outcomes']
+QIT-04,QIG-04.01,"['Incomplete outcome data (attrition bias)'
+ 'Incomplete outcome data addressed?'
+ 'Blinding of outcome assessment (detection bias)'
+ 'Incomplete outcome data addressed']",['All outcomes']
+QIT-04,QIG-04.02,['Incomplete outcome data (attrition bias)'],['All outcomes' '']
+QIT-05,,"['Selective reporting (reporting bias)' 'Free of selective reporting?'
+ 'Free of selective reporting']",['']
+QIT-05,QIG-05.01,['Incomplete outcome data (attrition bias)'],['All outcomes' 'At the end of the study - 4 weeks']
+QIT-05,QIG-05.02,['Incomplete outcome data (attrition bias)'],['At follow-up - 12 months']
+QIT-06,,"['Other bias' 'Free of other bias?' 'Selective reporting (reporting bias)'
+ 'Free of other bias']",['']
+QIT-07,,['Other bias'],['']
+QIT-07,QIG-07.01,['Blinding of participants and personnel (performance bias)'],['All outcomes' 'Objective outcomes']
+QIT-07,QIG-07.02,['Blinding of participants and personnel (performance bias)'],['Subjective outcomes']
+QIT-08,QIG-08.01,['Blinding of outcome assessment (detection bias)'],['All outcomes' 'Objective outcomes']
+QIT-08,QIG-08.02,['Blinding of outcome assessment (detection bias)'],['Subjective outcomes']
